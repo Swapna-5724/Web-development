@@ -9,11 +9,15 @@ section {
     height: 50%;
     /* background-color: rgba(255, 255, 255, 0.7);     [0 = 0.7,]  */
     background-color: #00cca0;
+    /* opacity: 1;   ->   I tried this*/
 } 
 
 #opacity {
     width: 50%;
     height: 50%;
     background-color: yellow;
-    opacity: 0.3;
+    opacity: 0.5;
 }
+
+
+/* rgba color for opacity */
