@@ -1,6 +1,6 @@
 img {
     width: 30%;
-    margin: 20px;
+    margin: 10px;
     /* margin: cal(10%6); */
 
 }
@@ -14,7 +14,7 @@ nav {
     width: 30%;
     /* margin: cal(10%6); */
     margin-left: calc(10%/6);
-    padding: 1.2em, 0 ;
+    padding: 1.5em,;
 }
 
 /* 30 + 30 + 30
