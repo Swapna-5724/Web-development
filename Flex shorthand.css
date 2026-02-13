@@ -39,7 +39,7 @@ main {
 
 main .sidebar {
     background-color: lab(27.06% 49.75 -41.11);
-    /* border: 2px soid white; */
+    /* border: 2px solid white; */
     flex: 1 2 300px;
     /* flex-grow  flex-shrink flex-basis */
 }
